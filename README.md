@@ -1,4 +1,4 @@
-# individual
+# dividend Calculator 
 
 A new Flutter project.
 
